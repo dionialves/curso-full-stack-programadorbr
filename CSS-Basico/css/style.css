@@ -1,0 +1,25 @@
+#cartao {
+  width: 400px;
+  height: 200px;
+  background-image: url("../assets/backgorund.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+p {
+  font-size: 22px;
+  padding: 10px;
+}
+
+#instagran {
+  list-style-image: url('../assets/Insta.png');
+}
+
+#twitter {
+  list-style-image: url('../assets/Twitter.png');
+}
+
+#youtube {
+  list-style-image: url('../assets/Youtube.png');
+}
